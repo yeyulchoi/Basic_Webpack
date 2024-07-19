@@ -1,0 +1,16 @@
+{
+  "name": "webpack_basic_setup",
+  "version": "1.0.0",
+  "description": "webpack base for use",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+    
+  },
+  "author": "yeyul choi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
